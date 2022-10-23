@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hrithik16
-- 👀 I’m interested in Python, Java, C, HTML, CSS, DBMS and BlockChain 
+- 👀 I’m interested in Python, Java, HTML, CSS, JS, DBMS and BlockChain 
 - 📫 How to reach me mail me at : hrithikgupta1605200@gmail.com
 
 <!---
